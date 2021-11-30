@@ -1,7 +1,7 @@
 # InfixCalc<br> 
 
 # What I Learned 
-- Stack
+- Stack Data Structure
 - Pop, Push
 - Header Files in C++
 - C++ OOP
